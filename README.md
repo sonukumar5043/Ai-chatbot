@@ -25,10 +25,12 @@ conversational AI chatbot built using Python, Gradio, and APIs. It uses custom s
 ```bash
 git clone https://github.com/sonukumar5043/Ai-chatbot/
 ```
-##Install dependencies
+## Install dependencies
+
 pip install -r requirements.txt
 
-##Future Improvements
+## Future Improvements
+
 Add voice support
 
 Add multiple chatbot personalities
